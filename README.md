@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/M1048660/M1048660/_apis/build/status/jayeshdub.pipelines-java?branchName=master)](https://dev.azure.com/M1048660/M1048660/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
